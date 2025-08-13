@@ -7,7 +7,7 @@ The system leverages OpenCV’s **Deep Neural Network (DNN)** face detection mod
 
 > **Note:** This project is designed for **educational and validation purposes only** and is **not intended for real medical diagnosis**.  
 
----
+
 
 ## 🔄 System Pipeline  
 1. **Capture frames from the webcam** and resize them for consistent processing.  
@@ -22,7 +22,7 @@ The system leverages OpenCV’s **Deep Neural Network (DNN)** face detection mod
 10. **Save the complete 60-second ECG waveform** as `final_ecg_plot.png`.  
 11. *(Optional)* **Upload an ECG image** and compute the **SSIM similarity percentage** between the generated and uploaded plots.  
 
----
+
 
 ## ⚙️ Implementation Details  
 
